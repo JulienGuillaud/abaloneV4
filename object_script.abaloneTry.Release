@@ -1,0 +1,12 @@
+release/abalonegrid.o
+release/boutondirection.o
+release/dialogconnection.o
+release/emplacement.o
+release/main.o
+release/mainwindow.o
+release/qrc_mesRessources.o
+release/moc_abalonegrid.o
+release/moc_boutondirection.o
+release/moc_dialogconnection.o
+release/moc_emplacement.o
+release/moc_mainwindow.o

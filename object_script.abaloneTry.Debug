@@ -1,0 +1,12 @@
+debug/abalonegrid.o
+debug/boutondirection.o
+debug/dialogconnection.o
+debug/emplacement.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_mesRessources.o
+debug/moc_abalonegrid.o
+debug/moc_boutondirection.o
+debug/moc_dialogconnection.o
+debug/moc_emplacement.o
+debug/moc_mainwindow.o
